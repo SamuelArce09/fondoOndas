@@ -1,0 +1,1 @@
+estos estilos seran ejecutados con sass,esto es un fondo con ondas haciendo un movimiento infinitamente sin parar
